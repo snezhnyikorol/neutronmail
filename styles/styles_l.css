@@ -1,0 +1,21 @@
+.offer__item {
+    margin: 0 10px;
+    position: relative;
+    left: 50px;
+    width: 370px;
+}
+
+.customers {
+    top: 1450px;
+    left: 70px;
+}
+
+.partners {
+    position: absolute;
+    right: 410px;
+    top: 2555px;
+}
+
+.download__devices {
+    right: -130px;
+}

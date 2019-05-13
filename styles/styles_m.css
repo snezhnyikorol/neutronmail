@@ -1,0 +1,30 @@
+.offer__item {
+    margin: 20px 10px;
+    position: relative;
+    left: 50px;
+    width: 570px;
+}
+
+.offer {
+    flex-direction: column;
+}
+
+.offer__item:first-child::after, .offer__item:last-child::after, .slogan__button::after,
+.slogan__button::before, .donate::before, .footer__legal::before, .footer__legal::after, .footer__contacts::before, .footer__company::after {
+    visibility: hidden;
+}
+
+.customers {
+    top: 1720px;
+    left: 0;
+}
+
+.partners {
+    position: absolute;
+    right: 0px;
+    top: 2835px;
+}
+
+.download__devices {
+    display: none;
+}
